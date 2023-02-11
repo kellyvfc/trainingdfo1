@@ -7,7 +7,7 @@
 	},
 	"name": "TRAINING_DFO",
 	"description": "Training DFO",
-	"ver": "23.2.11.1920",
+	"ver": "23.2.11.1924",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
